@@ -1,4 +1,7 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L3L71J8NI)
+
 # strapi-docker
+
 A docker-compose file for getting Strapi up and running with MariaDB/MySQL.
 
 
